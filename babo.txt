@@ -2,6 +2,11 @@
 
 using namespace std;
 
+void sayMungchung()
+{
+	cout << "Mungchung" << endl;
+}
+
 void sayBabo()
 {
 	cout << "Babo" << endl;
@@ -10,4 +15,5 @@ void sayBabo()
 int main()
 {
 	sayBabo();
+	sayMungchung();
 }
