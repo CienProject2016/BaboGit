@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 using namespace std;
 
@@ -9,7 +9,7 @@ void sayMungchung()
 
 void baboSound()
 {
-	cout << "ÄâÄâÄâÄâÄÚÄ«ÄâÄç!!!" << endl; 
+	cout << "ì½°ì½°ì½°ì½°ì½”ì¹´ì½°ì¾…!!!" << endl; 
 }
 
 void sayBabo()
