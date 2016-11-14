@@ -1,11 +1,13 @@
 #include <iostream>
 
-void main()
+using namespace std;
+
+int main()
 {
 	sayBabo();
 }
 
 void sayBabo()
 {
-	cout "Babo";
+	cout << "Babo" << endl;
 }
