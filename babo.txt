@@ -2,12 +2,12 @@
 
 using namespace std;
 
-int main()
-{
-	sayBabo();
-}
-
 void sayBabo()
 {
 	cout << "Babo" << endl;
+}
+
+int main()
+{
+	sayBabo();
 }
