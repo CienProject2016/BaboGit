@@ -1,11 +1,35 @@
-#include <iostream>
+﻿#include <iostream>
 
-void main()
+using namespace std;
+
+void sayMungchung()
 {
-	sayBabo();
+	cout << "Mungchung" << endl;
+}
+
+<<<<<<< HEAD
+void baboEffect()
+{
+	cout << "[ ㅁ _ ㅁ ]" << endl; 
+=======
+void baboSound()
+{
+	cout << "콰콰콰콰코카콰쾅!!!" << endl; 
+>>>>>>> #3_make_babo_sound
 }
 
 void sayBabo()
+{	
+<<<<<<< HEAD
+	baboEffect();
+=======
+	baboSound();
+>>>>>>> #3_make_babo_sound
+	cout << "Babo" << endl;
+}
+
+int main()
 {
-	cout "Babo";
+	sayBabo();
+	sayMungchung();
 }
